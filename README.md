@@ -1,16 +1,11 @@
-## Welcome to GitHub Pages
+## WELCOME TO SYNOVPN
 
-You can use the [editor on GitHub](https://github.com/syno3/synoVpn/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This scripts allows users using linux to clone an ip-address from the network,it also works on termux but with root access only
+### INSTALLING THE SCRIPTS
 
 ```markdown
-Syntax highlighted code block
-
+git clone https://github.com/syno3/synoVpn
+cd
 # Header 1
 ## Header 2
 ### Header 3
