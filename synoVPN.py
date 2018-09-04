@@ -8,16 +8,15 @@
 
 __author__ = "festus murimi"
 __copyright__ = "copyright (c) 2018"
-__license__ = "apache v2.0"
 
 import socket
-#import nmap 
+import nmap 
 import os
 import time
 import random
 import sys
 import warnings
-#from core import banner
+import banner
 
 #terminal colors
 
