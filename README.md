@@ -5,7 +5,6 @@ This scripts allows users using linux to clone an ip-address from the network,it
 
 ```markdown
 git clone https://github.com/syno3/synoVpn
-cd ..
 python synovpn.py
 
 ```
